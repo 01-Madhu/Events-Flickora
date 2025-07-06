@@ -2,7 +2,7 @@
 # Event Organizer Website
     *Flickora* is a modern, responsive event organizer website designed to showcase the services, gallery, and professionalism of a creative event management company. Built with clean HTML, CSS, and JavaScript,   this project is ideal for portfolio use or as a starter template for event-based businesses.
 
-# 🌟 Features
+## 🌟 Features
 
 - Fully responsive design
 - Elegant hero section and image gallery
