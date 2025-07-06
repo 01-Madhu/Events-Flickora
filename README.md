@@ -20,7 +20,6 @@
 Perfect for event planners, wedding coordinators, or event management startups who want a professional web presence.
 
 ## 🚀 Live Preview
-
-👉 [Click here to view the live site](https://01-Madhu.github.io/events-flickora/)
+👉 [Click here to view the live site](https://github.com/01-Madhu/Events-Flickora/tree/main)
 
 ---
